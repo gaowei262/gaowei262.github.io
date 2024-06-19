@@ -53,10 +53,10 @@
   publisher={IEEE}
 }
 
-@article{qu2024exploring,
+@inproceedings{qu2024exploring,
   title={Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap},
   author={Qu, Bowen and Liang, Xiaoyu and Sun, Shangkun and Gao, Wei},
-  journal={arXiv preprint arXiv:2404.13573},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops},
   year={2024}
 }
 
@@ -1294,7 +1294,7 @@
   publisher={Springer}
 }
 
-@incollection{li2024mpegAI3DDGC,
+@incollection{li2024mpegAI3DGC,
   title={MPEG AI-Based 3D Graphics Coding Standard},
   author={Li, Ge and Gao, Wei and Gao, Wen},
   booktitle={Point Cloud Compression: Technologies and Standardization},
