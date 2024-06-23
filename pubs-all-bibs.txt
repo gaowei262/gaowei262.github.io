@@ -1,3 +1,12 @@
+
+@article{liao2024rethink,
+  author = {Liao, Guibiao and Gao, Wei},
+  title = {Rethinking Feature Mining for Light Field Salient Object Detection},
+  year = {2024},
+  publisher = {ACM},
+  journal = {ACM Transactions on Multimedia Computing, Communications, and Applications}
+}
+
 @article{liu2024enlarged,
   title={Enlarged Motion-Aware and Frequency-Aware Network for Compressed Video Artifact Reduction},
   author={Liu, Wang and Gao, Wei and Li, Ge and Ma, Siwei and Zhao, Tiesong and Yuan, Hui},
