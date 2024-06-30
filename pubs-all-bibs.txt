@@ -1,3 +1,10 @@
+@article{yao2024iterative,
+  title={Iterative Saliency Aggregation and Assignment Network for Efficient Salient Object Detection in Optical Remote Sensing Images},
+  author={Yao, Zhaojian and Gao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}
 
 @article{liao2024rethink,
   author = {Liao, Guibiao and Gao, Wei},
