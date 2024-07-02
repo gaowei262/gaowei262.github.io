@@ -1,3 +1,12 @@
+
+@inproceedings{zhang2024learned,
+  title={Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network},
+  author={Zhang, Chenhao and Gao, Wei},
+  booktitle={European conference on computer vision},
+  year={2024},
+  organization={Springer}
+}
+
 @article{yao2024iterative,
   title={Iterative Saliency Aggregation and Assignment Network for Efficient Salient Object Detection in Optical Remote Sensing Images},
   author={Yao, Zhaojian and Gao},
