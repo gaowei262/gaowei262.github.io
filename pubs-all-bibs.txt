@@ -1,4 +1,25 @@
 
+@inproceedings{zheng2024view,
+  title={ViewPCGC: View-Guided Learned Point Cloud Geometry Compression},
+  author={Zheng, Huiming and Gao, Wei and Yu, Zhuozhen and Zhao, Tiesong and Li, Ge},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
+@inproceedings{xie2024roi,
+  title={ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision},
+  author={Xie, Liang and Gao, Wei and Zheng, Huiming and Li, Ge},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
+@inproceedings{peng2024laplacian,
+  title={Laplacian Matrix Learning for Point Cloud Attribute Compression with Ternary Search-Based Adaptive Block Partition},
+  author={Peng, Changhao and Gao, Wei},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
 @inproceedings{zhang2024learned,
   title={Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network},
   author={Zhang, Chenhao and Gao, Wei},
