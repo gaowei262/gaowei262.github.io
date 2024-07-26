@@ -20,6 +20,34 @@
   year={2024}
 }
 
+@inproceedings{yuan2024opensep,
+  title={OpenSEP: An Open Source Subjective Experiment Platform},
+  author={Yuan, Hang and Gao, Wei and Gao Wenxu},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
+@inproceedings{xie2024learningpcc,
+  title={LearningPCC: A PyTorch Library for Learning-Based Point Cloud Compression},
+  author={Xie, Liang and Gao, Wei},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
+@inproceedings{xie2024pchmvision,
+  title={PCHMVision: An Open-Source Library of Point Cloud Compression for Human and Machine Vision},
+  author={Xie, Liang and Gao, Wei},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
+@inproceedings{gao2024opendic,
+  title={OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression},
+  author={Gao, Wei and Zheng, Huiming and Zhang, Chenhao and Zheng, Kaiyu and Yu, Zhuozhen and Li, Yuan and Ye, Hua and Zhang, Yongchi},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  year={2024}
+}
+
 @inproceedings{zhang2024learned,
   title={Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network},
   author={Zhang, Chenhao and Gao, Wei},
