@@ -168,7 +168,7 @@
 
 @inproceedings{xie2024icra,
   title={SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision},
-  author={Xie, Liang and Gao, Wei and Zheng, Huiming and and Li, Ge},
+  author={Xie, Liang and Gao, Wei and Zheng, Huiming and Li, Ge},
   booktitle={Proceedings of IEEE International Conference on Robotics and Automation},
   year={2024}
 }
