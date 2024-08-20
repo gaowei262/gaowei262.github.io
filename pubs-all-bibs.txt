@@ -1,3 +1,10 @@
+@article{mu2024adaptive,
+  title={Adaptive LPU Decision for Dynamic Point Cloud Compression},
+  author={Mu, Xingming and Gao, Wei and Yuan, Hang and Wang, Shunzhou and Li, Ge},
+  journal={IEEE Signal Processing Letters},
+  year={2024},
+  publisher={IEEE}
+}
 
 @inproceedings{zheng2024view,
   title={ViewPCGC: View-Guided Learned Point Cloud Geometry Compression},
