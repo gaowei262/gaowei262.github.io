@@ -1,4 +1,12 @@
 
+@article{gao2024overview,
+  title={Overview and Comparison of AVS Point Cloud Compression Standard},
+  author={Gao, Wei and Gao, Wenxu and Mu, Xingming and Peng, Changhao and Li, Ge},
+  journal={APSIPA Transactions on Signal and Information Processing},
+  year={2024},
+  publisher={NowPublishers}
+}
+
 @article{zhang2024quantum,
   title={A Quantum-inspired Framework in Master-servant Mode for Large-scale Multi-modal Place Recognition},
   author={Zhang, Ruonan and Li, Ge and Gao, Wei and Liu, Shan},
