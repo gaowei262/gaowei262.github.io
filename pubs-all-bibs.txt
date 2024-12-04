@@ -1398,7 +1398,6 @@
   organization={IEEE}
 }
 
-
 @inproceedings{wang2015smooth,
   title={Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding},
   author={Wang, Xu and Kwong, Sam and Gao, Wei and Zhou, Yu and Yuan, Hui and Zhang, Yun},
@@ -1414,7 +1413,6 @@
   year={2024},
   publisher={Springer Nature}
 }
-
 
 @incollection{li2024introduction,
   title={Introduction},
@@ -1433,7 +1431,6 @@
   year={2024},
   publisher={Springer}
 }
-
 
 @incollection{li2024predictive,
   title={Predictive Coding},
