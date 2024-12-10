@@ -27,7 +27,6 @@
   year={2025}
 }
 
-
 @article{cai2024distortion,  
   title={Distortion Propagation Model-based V-PCC Rate Control for 3D Point Cloud Broadcasting},
   author={Cai, Zhanyuan and Gao, Wenxu and Li, Ge and Gao, Wei},
