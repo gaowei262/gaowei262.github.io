@@ -1,3 +1,10 @@
+@article{li2025s4r,  
+  title={S4R: Rethinking Point Cloud Sampling via Guiding Upsampling-Aware Perception},
+  author={Li, Zhuangzi and Liu, Shan and Gao, Wei and Li, Guanbin and Li, Ge},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  publisher={IEEE}
+}
 
 @article{wei2024rdvc,  
   title={RDVC: Efficient Deep Video Compression with Regulable Rate and Complexity Optimization},
@@ -42,6 +49,46 @@
   year={2024},
   pages={1-13},
   publisher={IEEE}
+}
+
+@inproceedings{li2025zero,
+  title={Zero-shot Quantization for Large-kernels via Shape-based Distribution and Diversity Self-distillation},
+  author={Li, Yao and Yu, Zhuozhen and Chen, Xinrui and Wang, Shunzhou and Yuan, Hang and Gao, Wei},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2025},
+  organization={IEEE}
+}
+
+@inproceedings{liu2025Implanting,
+  title={Implanting Robust Watermarks in Latent Diffusion Models for Video Generation},
+  author={Liu, Xiaohang and Chang, Heng and Wei, Jinfu and Zhu, Lei and Liu, Li and Li, Likun and Zhou, Shiji and Li, Chengyuan and Xu, Di and Gao, Wei},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2025},
+  organization={IEEE}
+}
+
+@inproceedings{wei2025Dual,
+  title={Dual-Process Watermarked Diffusion: Integrating Watermarking with Denoising in Point Clouds},
+  author={Wei, Jinfu and Chang, Heng and Liu, Xiaohang and Liu, Li and Li, Likun and Zhou, Shiji and Li, Chengyuan and Xu, Di and Gao, Wei and Liao, Ran},
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2025},
+  organization={IEEE}
+}
+
+@inproceedings{zheng2025octree,
+  title={Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective},
+  author={Zheng, Kaiyu and Gao, Wei and Zheng, Huiming},
+  booktitle={2025 Data Compression Conference (DCC)},
+  year={2025},
+  organization={IEEE}
+}
+
+@inproceedings{qi2025variable,
+  title={Variable-Rate Point Cloud Compression with Channel-Wise Entropy Modeling},
+  author={Qi, Zhiyang and Liu, Haoruo and Gao, Wei},
+  booktitle={2025 Data Compression Conference (DCC)},
+  year={2025},
+  organization={IEEE}
 }
 
 @article{gao2024editorial,
@@ -645,6 +692,14 @@
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2023},
   publisher={IEEE}
+}
+
+@article{sun2023special,
+  title={Special Topic on 3D Point Cloud Processing and Applications},
+  author={Sun, Huifang and Li, Ge and Chen, Siheng and Li, Li and Gao, Wei},
+  journal={ZTE Communications (ZTECOM)},
+  year={2023},
+  publisher={ZTE Communications}
 }
 
 @article{liu2022pufa,
@@ -1561,3 +1616,115 @@
   year={2024},
   publisher={Springer}
 }
+
+
+
+@incollection{gao2024intro3dpc,
+  title={Introduction to 3D Point Clouds: Datasets and Perception},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={1--27},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024learningbasics,
+  title={Learning Basics for 3D Point Clouds},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={29--70},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024deepei,
+  title={Deep-Learning-Based Point Cloud Enhancement I},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={71--97},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024deepeii,
+  title={Deep-Learning-Based Point Cloud Enhancement II},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={99--130},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024deepai,
+  title={Deep-Learning-Based Point Cloud Analysis I},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={131--162},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024deepaii,
+  title={Deep-Learning-Based Point Cloud Analysis II},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={163--193},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024pointpre,
+  title={Point Cloud Pre-trained Models and Large Models},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={195--225},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024pointlang,
+  title={Point Cloud-Language Multi-modal Learning},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={227--254},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2024opensource,
+  title={Open-Source Projects for 3D Point Clouds},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={255--272},
+  year={2024},
+  publisher={Springer}
+}
+
+@incollection{gao2025typicalapps,
+  title={Typical Engineering Applications of 3D Point Clouds},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={273--299},
+  year={2025},
+  publisher={Springer}
+}
+
+@incollection{gao2025futurework,
+  title={Future Work on Deep Learning-Based Point Cloud Technologies},
+  author={Gao, Wei and Li, Ge},
+  booktitle={Deep Learning for 3D Point Clouds},
+  pages={301--315},
+  year={2025},
+  publisher={Springer}
+}
+
+@book{gao2024dl3dpc,
+  title={Deep Learning for 3D Point Clouds},
+  author={Gao Wei and Li, Ge},
+  year={2024},
+  publisher={Springer Nature}
+}
+
+
+
+
