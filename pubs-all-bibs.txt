@@ -91,6 +91,15 @@
   organization={IEEE}
 }
 
+@article{wang2024light,
+  title={Light field angular super-resolution by view-specific queries},
+  author={Wang, Shunzhou and Lu, Yao and Xia, Wang and Xia, Peiqi and Wang, Ziqi and Gao, Wei},
+  journal={The Visual Computer},
+  pages={1--16},
+  year={2024},
+  publisher={Springer}
+}
+
 @article{gao2024editorial,
   title={Editorial for Special Issue on Deep Learning-Based Data Compression},
   author={Gao, Wei and Wang, Shiqi and Zhang, Xinfeng and Kwong, Sam},
@@ -511,7 +520,7 @@
 
 @article{sun2023special,
   title={Special Topic on 3D Point Cloud Processing and Applications},
-  author={SUN, Huifang and LI, Ge and CHEN, Siheng and LI, Li and GAO, Wei},
+  author={Sun, Huifang and Li, Ge and Chen, Siheng and Li, Li and Gao, Wei},
   journal={ZTE Communications},
   volume={21},
   number={4},
@@ -692,14 +701,6 @@
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2023},
   publisher={IEEE}
-}
-
-@article{sun2023special,
-  title={Special Topic on 3D Point Cloud Processing and Applications},
-  author={Sun, Huifang and Li, Ge and Chen, Siheng and Li, Li and Gao, Wei},
-  journal={ZTE Communications (ZTECOM)},
-  year={2023},
-  publisher={ZTE Communications}
 }
 
 @article{liu2022pufa,
@@ -1071,11 +1072,13 @@
   organization={IEEE}
 }
 
-@article{wu2022end,
+@inproceedings{wu2022end,
   title={End-to-end lossless compression of high precision depth maps guided by pseudo-residual},
   author={Wu, Yuyang and Gao, Wei},
-  journal={arXiv preprint arXiv:2201.03195},
-  year={2022}
+  booktitle={2022 Data Compression Conference (DCC)},
+  pages={489--489},
+  year={2022},
+  organization={IEEE}
 }
 
 @article{guo2022accelerating,
@@ -1724,7 +1727,3 @@
   year={2024},
   publisher={Springer Nature}
 }
-
-
-
-
