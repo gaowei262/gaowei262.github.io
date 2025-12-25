@@ -1984,31 +1984,30 @@
 
 
 
-
-
-
-
-
-
-
-
-@book{li2024point,
+@book{li2024pcc,
   title={Point Cloud Compression: Technologies and Standardization},
   author={Li, Ge and Gao, Wei and Gao, Wen},
   year={2024},
   publisher={Springer Nature}
 }
 
-@book{gao2025deep,
+@book{gao2025deep3dpc,
   title={Deep learning for 3D point clouds},
   author={Gao, Wei and Li, Ge},
   year={2025},
   publisher={Springer}
 }
 
-@book{gao2025ai,
+@book{gao2025aiivc,
   title={AI-based Image and Video Coding: Methods, Standards, and Applications},
   author={Gao, Wei},
   year={2025},
+  publisher={Springer Nature}
+}
+
+@book{gao2025aipcc,
+  title={AI-based Point Cloud Coding: Methods, Standards, and Applications},
+  author={Gao, Wei},
+  year={2026},
   publisher={Springer Nature}
 }
